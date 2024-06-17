@@ -1,8 +1,7 @@
 package com.mostafa.reactive.services;
 
 import com.mostafa.reactive.StudentCreatedEvent;
-import com.mostafa.reactive.StudentRequest;
-import com.mostafa.reactive.controllers.StudentController;
+import com.mostafa.reactive.Dto.StudentRequest;
 import com.mostafa.reactive.entities.Student;
 import com.mostafa.reactive.repos.StudentRepo;
 import lombok.RequiredArgsConstructor;

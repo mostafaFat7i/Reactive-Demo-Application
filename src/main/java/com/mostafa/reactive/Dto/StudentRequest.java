@@ -1,4 +1,4 @@
-package com.mostafa.reactive;
+package com.mostafa.reactive.Dto;
 
 import lombok.Data;
 

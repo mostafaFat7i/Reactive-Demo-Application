@@ -1,7 +1,7 @@
 package com.mostafa.reactive.controllers;
 
 import com.mostafa.reactive.StudentCreatedEvent;
-import com.mostafa.reactive.StudentRequest;
+import com.mostafa.reactive.Dto.StudentRequest;
 import com.mostafa.reactive.entities.Student;
 import com.mostafa.reactive.services.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
